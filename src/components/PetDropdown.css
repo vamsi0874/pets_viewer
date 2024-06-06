@@ -1,0 +1,33 @@
+
+  
+  .select select {
+    width: 120px;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 50px;
+    background-color: #f0f4f9;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    cursor: pointer;
+    
+  }
+  
+  .select select option {
+    font-size: 16px;
+    padding: 10px;
+
+  }
+  .select select:hover {
+    background-color: #efefef;
+  }
+  
+  .select select:focus {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .select select option:hover {
+    background-color: #f4f4f4;
+  }
+  

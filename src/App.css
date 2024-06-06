@@ -1,0 +1,66 @@
+/* App.css */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+body {
+  font-family: 'Outfit', sans-serif;
+  background-color: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align: center;
+  padding: 20px;
+ 
+}
+
+h1 {
+
+  color: #7a7f80;
+  display: block;
+ 
+}
+
+select {
+  
+  padding: 10px;
+  font-size: 16px;
+  margin: 20px 0;
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+  width: 140px;
+ 
+}
+
+
+
+.PetDetails {
+  background-color: #fff;
+  padding: 20px;
+  margin: 20px auto;
+  border: 1px solid #ced4da;
+  border-radius: 50px;
+  max-width: 300px;
+  text-align: left;
+}
+
+.PetDetails h2 {
+  color: #7b7d80;
+  margin-top: 0;
+}
+
+.PetDetails p {
+  color: #26282b;
+  margin: 10px 0;
+}
+
+.PetDetails p strong {
+  color: #555657;
+ 
+}
+
+img {
+  width: 20%;
+  border-radius: 50%;
+
+}
+  
